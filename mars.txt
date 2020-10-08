@@ -7,3 +7,5 @@ This is the first step to my thesis.
  *.dat will ignore all files with .dat extension
 
 This changes has been modified
+
+This a change from github
