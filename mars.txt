@@ -4,3 +4,4 @@ There are two moons.
 There are cleaners
 
 This is the first step to my thesis.
+ *.dat will ignore all files with .dat extension
